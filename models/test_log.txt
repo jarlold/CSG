@@ -1,0 +1,158 @@
+
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 13:29:08.288138
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Pure Difference [f=abs(x1-x2)]: 0.16568648843332395
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 13:29:10.840983
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Bias [f=x1-x2]: -0.1365053701678407
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 13:51:16.986530
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Open Close Delta Trade: -0.0007827894726263329
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 14:14:26.672632
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Open Close Delta Trade: 201.08966200000486
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 14:17:13.088553
+SHA1s: c10c998dfc3aef7b7c1569bd1a7d7fd98e183421 : 4167a1b8f573ac51cb88a4698a783f17eb26b66d
+Test Results:
+Open Close Delta Trade: -222.3245099999674
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 14:22:23.568062
+SHA1s: c10c998dfc3aef7b7c1569bd1a7d7fd98e183421 : 4167a1b8f573ac51cb88a4698a783f17eb26b66d
+Test Results:
+Accumulated Opn-Cls Delta: -222.3245099999674
+Possible Accumulated Opn-Cls Delta: 5033.079529000015
+
+
+                
+Model Name: <class 'model_manager.PureHistoryLSTM'>2021-08-25 11:32:30.269599
+Test Date: 2021-08-25 14:22:44.215615
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 201.08966200000486
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:37:33.446587
+Test Date: 2021-08-25 14:37:50.445458
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 1232.618664000024
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:39:09.887182
+Test Date: 2021-08-25 14:39:26.777582
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 1224.0485950000218
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:39:09.887182
+Test Date: 2021-08-25 14:41:37.133952
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 1224.0485950000218
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:39:09.887182
+Test Date: 2021-08-25 14:41:59.049575
+SHA1s: c10c998dfc3aef7b7c1569bd1a7d7fd98e183421 : 4167a1b8f573ac51cb88a4698a783f17eb26b66d
+Test Results:
+Accumulated Opn-Cls Delta: 31.050047000000177
+Possible Accumulated Opn-Cls Delta: 5033.079529000015
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:50:03.620270
+Test Date: 2021-08-25 14:51:05.911880
+SHA1s: c10c998dfc3aef7b7c1569bd1a7d7fd98e183421 : 4167a1b8f573ac51cb88a4698a783f17eb26b66d
+Test Results:
+Accumulated Opn-Cls Delta: -42.13489099999546
+Possible Accumulated Opn-Cls Delta: 5033.079529000015
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 14:50:03.620270
+Test Date: 2021-08-25 15:04:18.033156
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 267.86005700000885
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+Bulk Testing 1:
+Model Name: PureHistoryLSTM 2021-08-25 18:29:57.032832
+Test Date: 2021-08-25 18:30:30.468701
+SHA1s: 72e1d1f7472f49f51fcf2268ce1e1658b41a99dc : 51bef7c4cf400332a654ee07c21cd06ed60a323e
+Test Results:
+Accumulated Opn-Cls Delta: -567.3331489999955
+Possible Accumulated Opn-Cls Delta: 11197.967397999992
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 18:30:30.470360
+Test Date: 2021-08-25 18:31:03.287062
+SHA1s: 7e373f9775c7a9963518851b1927e16e6457b8d2 : c23711f4a494debfc111b1e9e0e9dce811a4c2c5
+Test Results:
+Accumulated Opn-Cls Delta: 820.4784600000152
+Possible Accumulated Opn-Cls Delta: 6834.404982000011
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 18:31:03.288641
+Test Date: 2021-08-25 18:31:07.608538
+SHA1s: 3ff6a2ae76b026f518caa709a5924fe82bf1fdef : 12f1989b2c1124004c1a4ef670689d11e0dfb7f2
+Test Results:
+Accumulated Opn-Cls Delta: 3.1099980000000613
+Possible Accumulated Opn-Cls Delta: 12.359991000000015
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 18:31:07.608743
+Test Date: 2021-08-25 18:31:59.599468
+SHA1s: 1d6160a9fd98dd7c475bd8da43e7d2c8875145c2 : cc2df17703dd6477c813985653aea1f1b31210c1
+Test Results:
+Accumulated Opn-Cls Delta: -20.490005000000274
+Possible Accumulated Opn-Cls Delta: 103.9999989999999
+
+
+                
+Model Name: PureHistoryLSTM 2021-08-25 18:31:59.601845
+Test Date: 2021-08-25 18:32:25.174516
+SHA1s: 50ea7b2c0b371c447ec07e14b34753b7eafcf332 : 0a01de52072c90ae6bddec1a492cc76d3b5aaf61
+Test Results:
+Accumulated Opn-Cls Delta: -22.439565999999843
+Possible Accumulated Opn-Cls Delta: 350.8605179999997
+
+
+                
