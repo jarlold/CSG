@@ -16,11 +16,11 @@ low price, and some feature extractions of these 4. This was to test the popular
 the value of a stock, you need to understand it's external influences. Some stocks were tested with data from
 quarterly reports, and they typically performed with a lower loss, ultimately this idea was canned only because
 the process of harvesting data from quarterly reports was not economical for our small team. If I had more time
-I would revist it.
+I would revisit it.
 
 ### Conclusion
-"Pure Ticker" models usually if given enough training time, performed about as well as the current SOTA for
-momentum trading techniques.
+"Pure Ticker" models usually if given enough training time, performed a bit worse than SOTA for automatic
+momentum trading techniques (at least from what I read on the internet).
 
 Models with quarterly-report data usually performed well briefly after the report
 but dwindled in accuracy near the end of the three month period (relying again on traditional momentum
@@ -29,7 +29,8 @@ day's market after the release of the quarterly report is usually not as enlight
 What may be of value to know, is that of our test stocks, people tended to over-estimate the value of 
 companies, and have their views re-aligned once the report came out. This may make an interesting basis
 for a model of predicting how "naive" a demographic of investors is, which would allow for predicting these
-re-adjustments and could be used to extract a great portion of profits.
+re-adjustments and could be used to extract a great portion of profits. But all models we trained typically 
+wound up being naive themselves. 
 
 Of course, no models were able to predict sudden crashes which were common across the whole market (due to
 global events), but this was never expected in the least.
@@ -45,6 +46,7 @@ If you would like to pick up this project and keep working on these ideas, there
 to become familiar with. 
 
 "yoink" - meaning to take in a clandestine manner
+
 "yeet"  - meaning to jettison with zeal
 
 ### Missing Models
@@ -52,11 +54,11 @@ Not all the code behind the models is available here. The point of this reposito
 framework and maybe save a weekend or so of work for someone who may be interested in this. For this reason 
 only two models have been included (to show the general format).
 
-There's really two reasons why not all the models are here:
+There's a few reasons why not all the models are here:
 - Some models pre-date the framework, and were just single-file Python scripts.
 - Others were omitted as my partner wanted to use them for a university project, but did not want to be accused of 
 plagiarism. This seems entirely reasonable to me, and we agreed there would be no problem in uploading them 
-after he completed his project, and that the project would fall under the GPLv2.
+after he completed his project, and that the implementations would fall under the GPLv2.
 - I did a lot of work very drunk, and would rather clean it and comment it before sharing.
 
 ### Papers
