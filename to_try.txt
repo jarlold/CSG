@@ -1,3 +1,0 @@
-1. Using a larger number of stocks
-2. Training one model over many different stocks
-3. Changing the timeframe (i.e trade by months)
