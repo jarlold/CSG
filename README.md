@@ -1,5 +1,4 @@
 ### CSG - Consensus Source Gradient
-A series of AI models for predicting stock market values.
 A framework for making AI models to predict stock market values.
 
 This was a side-project of mine and a finance student I am friends with. It is a framework designed to aid
